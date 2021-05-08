@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p{
+    text-align: center;
+}
+.image{
+    border: solid;
+    border-radius: 10%;
+}
